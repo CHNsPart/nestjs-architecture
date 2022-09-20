@@ -8,3 +8,6 @@ content-Type: application/json
 {
     "content": "hi there!"
 }
+
+### Search a messages
+GET http://localhost:8000/messages/459
